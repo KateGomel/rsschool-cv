@@ -30,6 +30,7 @@ I'm trying to learn Front-end programming to get a job that I'll enjoy.
 - CSS
 - JS (basic)
 - Git/GitHub
+- TypeScript
 
 ---
 
